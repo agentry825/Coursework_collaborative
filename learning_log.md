@@ -27,3 +27,36 @@
 - Set up a proper commit system to track what I’m doing.
 
 ---
+
+
+## 📅 Entry 2 – Week 2: Small Wins and Feedback Loops
+
+### ✅ What I’ve Done
+- Wrote a Bash script to upload files using `lftp`, which now saves loads of time.
+- Made small text changes and showed them to the President for feedback.
+- Started building the MCR page in React with placeholder content to get the layout right.
+- Committed everything to Git and showed the President the repo so he stays in the loop.
+- I hosted the first meeting of the website committee!
+- Some of the second and third year Comp Sci's reviewed my React component structure, and it helped me spot two bugs I missed.
+- Adjusted colour choices based on feedback from a few students who found it hard to read.
+
+### 📚 What I’ve Learned
+- Automating even simple tasks improves focus—it made testing much quicker.
+- Getting early feedback saved me from overbuilding something based on assumptions.
+- React felt confusing at first, especially props and JSX, but breaking it into small components helped.
+- GitHub collaboration worked better once I wrote proper commit messages and clear README notes.
+- I initially assumed the President would want things to look a certain way, turns out he cares more about simplicity.
+- I should’ve involved him earlier in some layout decisions, which lead to me having to recode stuff. Next time, I’ll mock up first before coding.
+- Realised I was overcomplicating early commits; splitting changes into smaller chunks helped track issues better.
+
+### 🎯 Goals
+- Make the MCR page more polished and mobile-friendly.
+- Understand React state and start handling simple user input.
+- Keep version control organised and well-documented for others.
+
+### 🔜 Next Steps
+- Complete the layout for the MCR section and test on mobile.
+- Start exploring React forms and managing state with `useState`.
+- Ask for another round of feedback before integrating anything new.
+
+---
