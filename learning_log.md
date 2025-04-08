@@ -60,3 +60,36 @@
 - Ask for another round of feedback before integrating anything new.
 
 ---
+
+
+## 📅 Entry 3 – Week 4: Getting into Full Stack Territory (oooohhhh)
+
+### ✅ What I’ve Done
+- Began building the backend for the pool leaderboard using Node.js and Express.
+- Designed the match data format with input from the President to make it easy to use.
+- Created API routes and used Postman to test submitting and retrieving results.
+- Added a React form to send match data to the backend.
+- Co-designed the match input process with the JCR President to keep it intuitive.
+- Asked a pool team member to try the form - his feedback fixed key UX issues.
+- Created a short doc to explain the system to non-technical users.
+
+### 📚 What I’ve Learned
+- Planning the API routes before writing them saved loads of time.
+- Testing user input revealed edge cases I hadn’t thought about (e.g. duplicate names, typos).
+- React form state was tricky at first—I had to really understand how hooks work.
+- Logging and breaking backend functions into modules helped debugging massively.
+- I assumed players would input perfect data, turns out typos and odd formats are really common.
+- Didn’t plan for form validation until I hit errors - now adding that early in any future form.
+- Backend logic became messy until I stopped and properly structured everything.
+
+### 🎯 Goals
+- Clean up the API structure and add error messages the frontend can display.
+- Link the leaderboard to real-time updates from the backend.
+- Start writing documentation for how everything fits together.
+
+### 🔜 Next Steps
+- Finish backend logic and test it with real data from the committee.
+- Improve the React leaderboard component to pull live data.
+- Add basic validation and better user feedback in the form.
+
+---
