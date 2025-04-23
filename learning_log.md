@@ -93,3 +93,33 @@
 - Add basic validation and better user feedback in the form.
 
 ---
+
+## 📅 Entry 4 – Week 6: Fixes, Features, and Finishing Touches
+
+### ✅ What I’ve Done
+- Cleaned up the match form with better validation and helper text.
+- Got the leaderboard auto-refreshing on new match submissions.
+- Added fallback messages and alerts for common errors.
+- Started documenting setup, deployment, and usage for the next JCR tech officer.
+- Got feedback from the JCR committee after demoing the match workflow.
+- Met with the web committee again where we tested the site on mobile, working together to improve the styling
+
+### 📚 What I’ve Learned
+- Good UX isn’t just about visuals, it’s about reducing user mistakes.
+- Building for future maintainers made me rethink my naming and folder structure.
+- It’s much easier to add features when the code is clean from the start.
+- Taking small breaks before revisiting bugs helped me see problems more clearly. I tried to juggle too many tasks at once - some bugs slipped through until I slowed down.
+- Focused too much on design at one point, when stability was the real need.
+- Didn’t plan my backend fallback handling early enough—caused some catch-up work later.
+
+### 🎯 Goals
+- Finalise all user-facing features and test on different devices.
+- Wrap up documentation and onboarding notes.
+- Prepare a walkthrough video for the executive committee.
+
+### 🔜 Next Steps
+- Share a working demo with the President for a final sign-off.
+- Add screenshots to the handover documentation to help future users understand the flow.
+- Clean up unused code and do a last pass of refactoring.
+
+---
