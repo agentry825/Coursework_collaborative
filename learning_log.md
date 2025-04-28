@@ -123,3 +123,35 @@
 - Clean up unused code and do a last pass of refactoring.
 
 ---
+
+
+## 📅 Entry 5 – Week 7: Wrap-Up and Reflection
+
+### ✅ What I’ve Done
+- Finished the full ELO system: players can now submit results, view rankings, and see updates in real time.
+- Wrote final documentation and submitted a walk-through guide and video to the committee.
+- Cleaned the codebase, added inline comments.
+- Delivered everything with feedback from multiple JCR members, which made the system way more usable.
+- Elected new members to the website committee to ensure collaboration is always part of the website manager role.
+- Started to teach new members how the site operates so when I move on from the role at the end of the year handover is clean.
+
+### 📚 What I’ve Learned
+- Building something real helped me grow faster than any tutorial ever could.
+- Being responsible for a working system pushed me to write better, safer code.
+- React and Express no longer feel daunting!!
+- Explaining things to others helped me understand them better myself.
+- I over-prioritised minor visual tweaks when I should’ve focused more on robust logic.
+- The walkthrough video took a while but made a big difference for clarity, definetly worth the time.
+- I learned to pause, plan, and ask questions rather than rushing into code.
+
+### 🎯 Goals
+- Carry forward what I learned here into future full-stack projects.
+- Reuse parts of this codebase in my portfolio or side projects.
+- Support other student developers who want to do the same.
+
+### 🔜 Next Steps
+- Automate future deployment using GitHub Actions.
+- Keep improving the project after the coursework ends- this doesn’t to stop here!
+
+Overall, I am immensely grateful to this project for allowing me the time to take on a role - it has not only improved my technical knowledge and given me insights
+into the life and requirements of a real software engineer, but also allowed me to get involved in my college community and create real improvement to the JCR.
